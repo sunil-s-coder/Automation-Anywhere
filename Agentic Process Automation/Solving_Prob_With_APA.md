@@ -18,7 +18,7 @@
 
 #### **8 Key Capabilities**
 
-    ![alt text](Resources/image.png)
+    ![alt text](Resources/8 Capabilities of APA.png)
 
 1. **Classification** (Assigning a label or category to information)
     * What it does?
