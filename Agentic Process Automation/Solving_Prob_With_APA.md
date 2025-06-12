@@ -18,7 +18,7 @@
 
 #### **8 Key Capabilities**
 
-![8 Capabilities of APA](Resources/8%20Capabilities%20of%20APA.png)
+![8 Capabilities of APA](Resources/8%20Capabilities%20of%20APA.png) 
 
 1. **Classification** (Assigning a label or category to information)
     * What it does?
